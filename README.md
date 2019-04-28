@@ -11,3 +11,8 @@ Bundle and minimize code under the */build* folder:
 `
 npm run build
 `
+
+Delete *node_modules* folder:
+`
+npm run clean
+`
